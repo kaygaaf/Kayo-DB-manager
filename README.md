@@ -1,5 +1,5 @@
 # Kayo-DB-manager
-Easily manage unlimited bot instances for dreambot through discord. The sky is the limit
+Easily manage unlimited bot instances for dreambot through discord. The sky is the limit. Works especially well when paired with the KayoFlipper script
 
 FEATURES
 

@@ -21,10 +21,17 @@ Example: "java -Xmx512M -jar C:/Users/example/DreamBot/BotData/client.jar -scrip
 
 <img width="605" height="242" alt="Screenshot 2025-08-04 at 18 40 59" src="https://github.com/user-attachments/assets/9c96c950-3503-4109-9117-65d035449f4b" />
 
-Download KayoDBmanager.py and fill in the Discord token and .bat file directory at the top of the file.
+Download KayoDBmanager.py and fill in the Discord token and .bat file directory at the top of the file. 
+
+if running kayoflipper script make sure the STATS_DIR are identical in both configs
+
+![IMG_9995](https://github.com/user-attachments/assets/d84f0992-0186-4205-a48f-c4a57e9fb64c)
+
+
 Run KayoDBmanager.py and control the bot from the Discord channel
 
 COMMANDS:
+
 !run all
 
 !run accountname
@@ -34,6 +41,8 @@ COMMANDS:
 !stop accountname
 
 !status
+
+!cancel 
 
 SCREENSHOTS
 
